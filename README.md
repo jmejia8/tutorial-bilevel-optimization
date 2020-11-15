@@ -1,7 +1,3 @@
-# Introducción a Julia
-
-
-Pícale al siguiente al siguiente enlace para abrir el recurso interactivo para aprender
 # Tutorial: Bilevel Optimization Without Tears
 
 Click the following image to open the online application.
